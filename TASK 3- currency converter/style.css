@@ -5,7 +5,7 @@
   }
   
   body{
-    background: linear-gradient(315deg, #b28815,#dc3518 );
+    background: linear-gradient(315deg, #8ec437,#3e3b70 );
     height: 100vh;
     display: flex;
     align-items: center;
@@ -42,7 +42,7 @@
     height: 40px;
     font-size: 1.2em;
     cursor: pointer;
-    background: #b67b0f;
+    background: #9c865e;
     outline: none;
     color: black;
     margin: 0.2em 0;
@@ -59,7 +59,7 @@
     margin: 0.2em 0;
     border-radius: 10px;
     border: none;
-    background: #d86b30;
+    background: #8cd830;
     outline: none;
     padding: 0 1em;
   }
